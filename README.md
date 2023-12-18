@@ -1,4 +1,4 @@
-#Weather App
+
 **Project scope:**
 After entering the application, users can search for the location they want and view the weather conditions in that location in degrees and visually.
 
